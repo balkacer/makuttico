@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makuttico
-- 👀 I’m interested in all what include web development!
-- 🌱 I’m currently learning some frameworks like angular, vue and react.js
-- 💞️ I’m looking to collaborate on my own proyect that I called "Frony"
+- 👀 I’m interested in mobile and web development!
+- 🌱 I’m currently learning and workign with a lot of technologies.
+- 💞️ I’m looking to collaborate on my own projects and opensource.
 - 📫 How to reach me: makuttico@gmail.com
 
 <!---
